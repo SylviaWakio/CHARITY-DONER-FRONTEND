@@ -27,7 +27,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #000000;
+  color: #2807F4;
   line-height: 1.5;
   font-family: "Montserrat", Arial, sans-serif;
   font-weight: 400;
@@ -67,7 +67,7 @@ p, ul, ol {
 a {
   -webkit-transition: .3s all;
   transition: .3s all;
-  color: #FDBE34;
+  color: #D261D4;
 }
 
 a:hover, a:focus, a:active {
@@ -81,7 +81,7 @@ a:hover, a:focus, a:active {
   box-shadow: none;
   border-radius: 0px;
   margin-bottom: 0px;
-  background: #000000;
+  background: #2807F4;
   -webkit-transition: .3s all;
   transition: .3s all;
   position: absolute;
@@ -246,7 +246,7 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-navbar .dropdown > .dropdown-menu > li.dropdown-submenu.open > a:before, .probootstrap-navbar .dropdown > .dropdown-menu > li.dropdown-submenu:hover > a:before, .probootstrap-navbar .dropdown > .dropdown-menu > li.dropdown-submenu:focus > a:before, .probootstrap-navbar .dropdown > .dropdown-menu > li.dropdown-submenu:active > a:before {
-  color: #000000;
+  color: #2807F4;
 }
 
 .probootstrap-navbar .dropdown > .dropdown-menu > li.active > a {
@@ -261,7 +261,7 @@ a:hover, a:focus, a:active {
   border: none;
   -webkit-box-shadow: none;
   box-shadow: none;
-  background: #FDBE34;
+  background: #D261D4;
   border-radius: 0;
   -webkit-box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.15);
   box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.15);
@@ -346,7 +346,7 @@ a:hover, a:focus, a:active {
 
 .probootstrap-navbar .navbar-nav > li.active > a {
   background: none !important;
-  color: #FDBE34 !important;
+  color: #D261D4 !important;
 }
 
 @media screen and (max-width: 768px) {
@@ -360,13 +360,13 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-navbar .navbar-nav > li > .dropdown-menu:before {
-  border: 1px solid #FDBE34;
+  border: 1px solid #D261D4;
   content: "";
   position: absolute;
   top: -20px;
   left: 40px;
   border-color: rgba(253, 190, 52, 0);
-  border-bottom-color: #FDBE34;
+  border-bottom-color: #D261D4;
   border-width: 10px;
   margin-left: -10px;
 }
@@ -381,7 +381,7 @@ a:hover, a:focus, a:active {
   border-radius: 4px;
   padding: 10px 20px;
   margin-top: 24px;
-  background: #FDBE34;
+  background: #D261D4;
   color: #ffffff;
   border-radius: 0px;
   border: none;
@@ -641,7 +641,7 @@ a:hover, a:focus, a:active {
 
 .probootstrap-service-intro .probootstrap-service-intro-flex .item {
   width: 33.333%;
-  background: #FDBE34;
+  background: #D261D4;
   padding: 20px;
   border-right: 1px solid rgba(255, 255, 255, 0.3);
 }
@@ -679,7 +679,7 @@ a:hover, a:focus, a:active {
 
 .probootstrap-service-intro .probootstrap-service-intro-flex .item .text h2 {
   font-size: 18px;
-  color: #000000;
+  color: #2807F4;
   text-transform: uppercase;
 }
 
@@ -713,57 +713,57 @@ a:hover, a:focus, a:active {
 }
 
 .btn.btn-primary {
-  border: 1px solid #FDBE34;
-  background: #FDBE34;
+  border: 1px solid #D261D4;
+  background: #D261D4;
   color: #ffffff;
 }
 
 .btn.btn-primary:hover, .btn.btn-primary:active, .btn.btn-primary:focus {
-  background: #000000;
+  background: #2807F4;
   color: #ffffff;
-  border: 1px solid #000000;
+  border: 1px solid #2807F4;
 }
 
 .btn.btn-primary:focus, .btn.btn-primary:active {
   outline: none;
-  border: 1px solid #000000;
+  border: 1px solid #2807F4;
 }
 
 .btn.btn-ghost {
   background: transparent;
-  border: 1px solid #FDBE34;
-  color: #FDBE34;
+  border: 1px solid #D261D4;
+  color: #D261D4;
 }
 
 .btn.btn-ghost:hover {
-  background: #FDBE34;
+  background: #D261D4;
   color: #ffffff;
 }
 
 .btn.btn-ghost:focus, .btn.btn-ghost:active {
   outline: none;
   background: transparent;
-  color: #FDBE34;
-  border: 1px solid #FDBE34;
+  color: #D261D4;
+  border: 1px solid #D261D4;
 }
 
 .btn.btn-black {
-  background: #000000;
+  background: #2807F4;
   color: #ffffff;
-  border: 1px solid #000000;
+  border: 1px solid #2807F4;
 }
 
 .btn.btn-black:hover {
-  background: #FDBE34;
+  background: #D261D4;
   color: #ffffff;
-  border: 1px solid #FDBE34;
+  border: 1px solid #D261D4;
 }
 
 .btn.btn-black:focus, .btn.btn-black:active {
   outline: none;
-  background: #FDBE34;
+  background: #D261D4;
   color: #ffffff;
-  border: 1px solid #FDBE34;
+  border: 1px solid #D261D4;
 }
 
 .probootstrap-section {
@@ -789,7 +789,7 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-section.probootstrap-section-colored, .probootstrap-section.probootstrap-section-dark {
-  background: #FDBE34;
+  background: #D261D4;
 }
 
 .probootstrap-section.probootstrap-section-colored .section-heading h2, .probootstrap-section.probootstrap-section-dark .section-heading h2 {
@@ -942,7 +942,7 @@ a:hover, a:focus, a:active {
 
 .probootstrap-cta {
   padding: 3em 0;
-  background: #FDBE34;
+  background: #D261D4;
   color: #ffffff;
 }
 
@@ -997,13 +997,13 @@ a:hover, a:focus, a:active {
 
 .probootstrap-cta .btn.btn-ghost:hover {
   background: #ffffff;
-  color: #FDBE34;
+  color: #D261D4;
 }
 
 .probootstrap-footer {
   padding: 7em 0;
   padding-bottom: 0;
-  background: #000000;
+  background: #2807F4;
   color: rgba(255, 255, 255, 0.9);
 }
 
@@ -1114,7 +1114,7 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-news li h3 a:hover {
-  color: #000000;
+  color: #2807F4;
 }
 
 .probootstrap-news li p {
@@ -1132,15 +1132,15 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-news li .probootstrap-meta a:hover {
-  color: #000000;
+  color: #2807F4;
 }
 
 .news-entry h2 a {
-  color: #000000;
+  color: #2807F4;
 }
 
 .news-entry h2 a:hover {
-  color: #FDBE34;
+  color: #D261D4;
 }
 
 .probootstrap-news-date {
@@ -1154,7 +1154,7 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-meta-share a:hover {
-  color: #000000;
+  color: #2807F4;
 }
 
 .probootstrap-image-text-block {
@@ -1178,7 +1178,7 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-image-text-block h2 a {
-  color: #000000;
+  color: #2807F4;
 }
 
 .probootstrap-image-text-block :last-child {
@@ -1225,7 +1225,7 @@ a:hover, a:focus, a:active {
 
 .progress-bar {
   border: none;
-  background-color: #FDBE34;
+  background-color: #D261D4;
   border-radius: 10px;
   position: relative;
   -webkit-box-shadow: none;
@@ -1234,7 +1234,7 @@ a:hover, a:focus, a:active {
 }
 
 .progress-bar > span {
-  background: #FDBE34;
+  background: #D261D4;
   padding: 2px 4px;
   font-size: 10px;
   position: absolute;
@@ -1249,7 +1249,7 @@ a:hover, a:focus, a:active {
   height: 0;
   border-left: 5px solid transparent;
   border-right: 5px solid transparent;
-  border-top: 7px solid #FDBE34;
+  border-top: 7px solid #D261D4;
   position: absolute;
   bottom: -7px;
   left: 50%;
@@ -1369,13 +1369,13 @@ a:hover, a:focus, a:active {
 
 .probootstrap-counter-wrap .probootstrap-icon i {
   font-size: 40px;
-  color: #FDBE34;
+  color: #D261D4;
 }
 
 .probootstrap-counter-wrap .probootstrap-text .probootstrap-counter {
   display: block;
   font-size: 40px;
-  color: #000000;
+  color: #2807F4;
   margin-bottom: 10px;
   font-family: "Montserrat", Arial, sans-serif;
 }
@@ -1418,7 +1418,7 @@ a:hover, a:focus, a:active {
 .nav-tabs.probootstrap-tabs > li > a, .nav-pills.probootstrap-tabs > li > a {
   border-radius: 0px;
   padding: 20px 30px;
-  background: #FDBE34;
+  background: #D261D4;
   color: #ffffff;
   font-size: 16px;
   border: none !important;
@@ -1432,7 +1432,7 @@ a:hover, a:focus, a:active {
 }
 
 .nav-tabs.probootstrap-tabs > li > a:hover, .nav-pills.probootstrap-tabs > li > a:hover {
-  background: #fdb61b;
+  background: #D261D4;
 }
 
 .nav-tabs.probootstrap-tabs > li > a:active, .nav-tabs.probootstrap-tabs > li > a:focus, .nav-pills.probootstrap-tabs > li > a:active, .nav-pills.probootstrap-tabs > li > a:focus {
@@ -1441,7 +1441,7 @@ a:hover, a:focus, a:active {
 
 .nav-tabs.probootstrap-tabs > li.active > a, .nav-pills.probootstrap-tabs > li.active > a {
   background: #ffffff;
-  color: #000000;
+  color: #2807F4;
 }
 
 .nav-tabs.probootstrap-tabs.no-border, .nav-pills.probootstrap-tabs.no-border {
@@ -1498,7 +1498,7 @@ a:hover, a:focus, a:active {
   top: -30px;
   -webkit-transition: .3s all;
   transition: .3s all;
-  border-bottom: 3px solid #FDBE34;
+  border-bottom: 3px solid #D261D4;
 }
 
 .probootstrap-featured-news-box .probootstrap-text h3 {
@@ -1516,7 +1516,7 @@ a:hover, a:focus, a:active {
 }
 
 .probootstrap-featured-news-box:hover .probootstrap-text, .probootstrap-featured-news-box:focus .probootstrap-text {
-  background: #FDBE34;
+  background: #D261D4;
   top: -40px;
   -webkit-box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.1);
   box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.1);
@@ -1556,7 +1556,7 @@ a:hover, a:focus, a:active {
 .service .icon i {
   font-size: 40px;
   color: rgba(0, 0, 0, 0.2);
-  color: #FDBE34;
+  color: #D261D4;
 }
 
 .service h3 {
@@ -1920,7 +1920,7 @@ a:hover, a:focus, a:active {
 .probootstrap-form .form-control:active, .probootstrap-form .form-control:focus {
   -webkit-box-shadow: none;
   box-shadow: none;
-  border-color: #FDBE34;
+  border-color: #D261D4;
 }
 
 .probootstrap-form textarea.form-control {
@@ -2369,7 +2369,7 @@ a:hover, a:focus, a:active {
   display: block;
   text-transform: none;
   letter-spacing: normal;
-  color: #FDBE34;
+  color: #D261D4;
   font-size: 14px;
 }
 
@@ -2379,7 +2379,7 @@ a:hover, a:focus, a:active {
 
 .probootstrap-pricing .probootstrap-price-wrap .probootstrap-price {
   font-size: 50px;
-  color: #FDBE34;
+  color: #D261D4;
   font-weight: 100;
   display: block;
   margin-bottom: 10px;
@@ -2428,7 +2428,7 @@ a:hover, a:focus, a:active {
   border-left: none;
   padding: 0;
   margin-bottom: 0;
-  color: #000000;
+  color: #2807F4;
 }
 
 .probootstrap-testimony-wrap blockquote cite {
@@ -2440,7 +2440,7 @@ a:hover, a:focus, a:active {
 
 .probootstrap-testimony-wrap blockquote cite span {
   font-style: normal;
-  color: #000000;
+  color: #2807F4;
   font-weight: bold;
 }
 
@@ -2660,14 +2660,14 @@ a:hover, a:focus, a:active {
 .owl-carousel-posts .owl-controls .owl-nav .owl-prev i,
 .owl-carousel-fullwidth .owl-controls .owl-nav .owl-next i,
 .owl-carousel-fullwidth .owl-controls .owl-nav .owl-prev i {
-  color: #000000;
+  color: #2807F4;
 }
 
 .owl-carousel-posts .owl-controls .owl-nav .owl-next:hover i,
 .owl-carousel-posts .owl-controls .owl-nav .owl-prev:hover i,
 .owl-carousel-fullwidth .owl-controls .owl-nav .owl-next:hover i,
 .owl-carousel-fullwidth .owl-controls .owl-nav .owl-prev:hover i {
-  color: #000000;
+  color: #2807F4;
 }
 
 .owl-carousel-fullwidth.fh5co-light-arrow .owl-controls .owl-nav .owl-next i,
@@ -2735,7 +2735,7 @@ a:hover, a:focus, a:active {
 
 .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
   background: none;
-  border: 2px solid #000000;
+  border: 2px solid #2807F4;
 }
 
 .probootstrap-testimonial:before {
